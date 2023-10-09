@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bwEfZG3u)
+# Hello! Welcome to my Repository!
+My name is Catherine, but you can call me Cath. I am one of the Software Engineering students in the RevoU October 2023 batch
+
+## Let's get to know me better
+![self photos](photos/Self.jpg)
+Currently, I am working as a full-time employee at a company in Indonesia while studying Software Engineering at RevoU.
+
+My main goal in studying Software Engineering is to improve my skills as a full-stack Software Engineer.
+
+## Let's Connect!
+You can connect with me via [linkedIn](https://www.linkedin.com/in/catherine-valerie-624886198/)
+
+
+## My Top 5 Activities:
+1. Watching YouTube
+2. Hanging Out with Friends
+3. Arranging Flower
+4. Working 🥲
+5. Rest 🥲
