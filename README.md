@@ -2,7 +2,7 @@
 My name is Catherine, but you can call me Cath. I am one of the Software Engineering students in the RevoU October 2023 batch
 
 ## Let's get to know me better
-<img src="Photos/Self.jpg" alt="Self Photo" width="200 px">
+<img src="Photos/Self.jpg" alt="Self Photo" width="300">
 Currently, I am working as a full-time employee at a company in Indonesia while studying Software Engineering at RevoU.
 
 My main goal in studying Software Engineering is to improve my skills as a full-stack Software Engineer.
