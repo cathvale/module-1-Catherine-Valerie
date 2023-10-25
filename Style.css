@@ -9,22 +9,24 @@
     width: 100%;
     top: 0;
     left: 0;
+    z-index: 1;
 }
 
 .hamburger-icon {
-    display: block;
-    align-items: center;
-    margin-top: 30px;
-    margin-left: 15px;
-    margin-right: 30px;
-    margin-bottom: 30px;
+    width: 35px;
     float: left;
+    align-items: center;
+    display: block;
+    margin-top: 30px;
+    margin-right: 5px;
+    margin-left: 10px;
 }
 
 .traveplan-icon {
-    position: relative;
-    display: flex;
+    width: 200px;
     align-items: center;
+    display: flex;
+    margin-left: 70px;
 }
 
 .container {
@@ -139,7 +141,7 @@
     object-fit: cover;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1077px) {
     .background-nav {
         width: 100%;
         position: inline;
@@ -148,9 +150,9 @@
     }
 
     .hamburger-icon {
-        display: block;
+        display: flex;
         align-items: center;
-        width: 20%;
+        height: 5%;
         float: left;
     }
 
